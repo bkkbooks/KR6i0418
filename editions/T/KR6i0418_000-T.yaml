@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0418/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說罪業應報教化地獄經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0724.xml
+    old_id: T17n0724
+hash: sha256:47b2ac27de1255a406e0b89ead2afc47f204a45e9d0f5dd04311fb312b117e90
