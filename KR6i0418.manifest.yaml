@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0418_000.yaml, hash: 'sha256:47b2ac27de1255a406e0b89ead2afc47f204a45e9d0f5dd04311fb312b117e90'}
-  - {seq: 1, filename: KR6i0418_001.yaml, hash: 'sha256:641e77734e21eeeb93fc038f08c18c72378a4cc2c2f0f763578c9964de2bf864'}
+  - {seq: 1, filename: KR6i0418_001.yaml, hash: 'sha256:3edf3e95adb29f8c84e06af5208f1e7ef4032ec9e7bb9b68200e8dac2a925dea'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0418_001.markers.yaml, hash: 'sha256:756cfea67f0cb653c84207f643f509e507e486d995cb6b1e49b54b331657dbf8'}
+  - {seq: 0, role: markers, filename: assets/KR6i0418_000.markers.yaml, hash: 'sha256:afe5225818ea10d5ea57a7a0352c88a18bb4d05ebf48321a539b1727c4bacc75'}
+  - {seq: 1, role: markers, filename: assets/KR6i0418_001.markers.yaml, hash: 'sha256:6222a6268481b3d0f29d2f5f16fe9de50a1bf92cbd455db227356121e47517f3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 佛說罪業應報教化地獄經
   type: juan
   level: 1
-hash: sha256:924f19bb25df2ca3c43d8da8c329d4c5d823ebacddce4a97e7bee645cdae4be6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8ab1855a7e5583e50171a114cc94115bb0363b8ce224f802fe9b2f0e5396b890
