@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0418/v1
 canonical_location: https://kanripo.org/bkk/KR6i0418/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說罪業應報教化地獄經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0418_000.yaml, hash: 'sha256:47b2ac27de1255a406e0b89ead2afc47f204a45e9d0f5dd04311fb312b117e90'}
-  - {seq: 1, filename: KR6i0418_001.yaml, hash: 'sha256:3edf3e95adb29f8c84e06af5208f1e7ef4032ec9e7bb9b68200e8dac2a925dea'}
+  - {seq: 1, filename: KR6i0418_001.yaml, hash: 'sha256:ca70d8c458ca0df7a592a5bfb5a9f4cbb225fc14a04218791e90b0c3ca2bc483'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0418_000.markers.yaml, hash: 'sha256:afe5225818ea10d5ea57a7a0352c88a18bb4d05ebf48321a539b1727c4bacc75'}
-  - {seq: 1, role: markers, filename: assets/KR6i0418_001.markers.yaml, hash: 'sha256:6222a6268481b3d0f29d2f5f16fe9de50a1bf92cbd455db227356121e47517f3'}
+  - {seq: 1, role: markers, filename: assets/KR6i0418_001.markers.yaml, hash: 'sha256:a1d3cde6f7cfa85a70cb387cc61a9f4ab03412668d3f4411b092a24baabd97c1'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 佛說罪業應報教化地獄經
   type: juan
   level: 1
-hash: sha256:8ab1855a7e5583e50171a114cc94115bb0363b8ce224f802fe9b2f0e5396b890
+hash: sha256:5c420b27f41278185e87ae10bf9766bfa47c22cd9fdb6ebacfa3646e1817947b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
